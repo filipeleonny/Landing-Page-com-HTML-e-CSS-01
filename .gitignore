@@ -20,3 +20,23 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+.android/
+.cache/
+.codeium/
+.gradle/
+.lemminx/
+.redhat/
+.ssh/
+AppData/
+Contacts/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+ntuser.dat*
